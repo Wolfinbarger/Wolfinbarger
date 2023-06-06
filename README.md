@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm X'Zaiver</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 
-<p>Currently focusing on building websites.</p>
+<p>Currently focusing on building websites using rails.</p>
 
-<p>Learning React</p>
+<h3>Learning</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfinbarger&show_icons=true&locale=en&layout=compact" alt="wolfinbarger" /></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolfinbarger&show_icons=true&locale=en&layout=compact" alt="wolfinbarger" /></p>
