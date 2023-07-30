@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm X'Zaiver</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 
-<p>I am a dedicated developer who aims to create fun and meaningful projects. </p>
+<p>I am a dedicated Full-stack web developer who aims to create fun and meaningful projects. </p>
 <p>When I'm not busy coding, you can find me exploring new technologies, experimenting with different frameworks, and continuously learning to stay ahead in this ever-evolving tech world.</p>
 
 - 🌱 I’m currently learning **React.js**
